@@ -109,7 +109,9 @@ let anothername = myYoutubename
 anothername = "Mayank-Malik"
 
 console.log(myYoutubename); 
+
 //Ab isme myYoutubename ki real value hi print hogi because jab hamne usse anothername mein store karaya toh uski ek copy bani stack mein or vo store hui thi anothername mein
+
 console.log(anothername);
 
 let userOne = {
