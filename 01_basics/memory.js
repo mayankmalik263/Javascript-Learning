@@ -28,3 +28,5 @@ console.log(userOne.email);
 console.log(userTwo.email);
 // HEAP mein original value pe hi changes honge instead of making a copy of the value of the variable phele
 
+// stack mein copy store hogi dusre variable ki jiski value assign hui h 
+// where as heap mein directly reference hi change hojayegi jo uss variable ki real value hoti h
